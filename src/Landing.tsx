@@ -114,5 +114,6 @@ export default function VocabularyGenerator() {
         </div>
       </CardContent>
     </Card>
+    
   );
 }
