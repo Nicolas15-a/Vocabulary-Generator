@@ -1,0 +1,1282 @@
+{
+  "a": {
+    "color": [
+      {
+        "word": "Azure",
+        "translation": "Azul celeste"
+      },
+      {
+        "word": "Amber",
+        "translation": "Ambar"
+      },
+      {
+        "word": "Aquamarine",
+        "translation": "Aguamarina"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Ant",
+        "translation": "Hormiga"
+      },
+      {
+        "word": "Alligator",
+        "translation": "Caiman"
+      },
+      {
+        "word": "Alpaca",
+        "translation": "Alpaca"
+      }
+    ],
+    "object": [
+      {
+        "word": "Arrow",
+        "translation": "Flecha"
+      },
+      {
+        "word": "Apple",
+        "translation": "Manzana"
+      },
+      {
+        "word": "Anchor",
+        "translation": "Ancla"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Apple",
+        "translation": "Manzana"
+      },
+      {
+        "word": "Apricot",
+        "translation": "Albaricoque"
+      },
+      {
+        "word": "Avocado",
+        "translation": "Aguacate"
+      },
+      {
+        "word": "Acai",
+        "translation": "Acai"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Act",
+        "translation": "Actuar"
+      },
+      {
+        "word": "Achieve",
+        "translation": "Lograr"
+      },
+      {
+        "word": "Admire",
+        "translation": "Admirar"
+      },
+      {
+        "word": "Accelerate",
+        "translation": "Acelerar"
+      }
+    ],
+    "place": [
+      {
+        "word": "Airport",
+        "translation": "Aeropuerto"
+      },
+      {
+        "word": "Australia",
+        "translation": "Australia"
+      },
+      {
+        "word": "Argentina",
+        "translation": "Argentina"
+      },
+      {
+        "word": "Amsterdam",
+        "translation": "amsterdam"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Accountant",
+        "translation": "Contador"
+      },
+      {
+        "word": "Architect",
+        "translation": "Arquitecto"
+      },
+      {
+        "word": "Actor",
+        "translation": "Actor"
+      },
+      {
+        "word": "Astronaut",
+        "translation": "Astronauta"
+      }
+    ]
+  },
+  "b": {
+    "color": [
+      {
+        "word": "Blue",
+        "translation": "Azul"
+      },
+      {
+        "word": "Beige",
+        "translation": "Beige"
+      },
+      {
+        "word": "Brown",
+        "translation": "Marran"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Bear",
+        "translation": "Oso"
+      },
+      {
+        "word": "Butterfly",
+        "translation": "Mariposa"
+      },
+      {
+        "word": "Bison",
+        "translation": "Bisonte"
+      }
+    ],
+    "object": [
+      {
+        "word": "Ball",
+        "translation": "Pelota"
+      },
+      {
+        "word": "Book",
+        "translation": "Libro"
+      },
+      {
+        "word": "Bottle",
+        "translation": "Botella"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Banana",
+        "translation": "Platano"
+      },
+      {
+        "word": "Blackberry",
+        "translation": "Mora"
+      },
+      {
+        "word": "Blueberry",
+        "translation": "Arandano"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Break",
+        "translation": "Romper"
+      },
+      {
+        "word": "Build",
+        "translation": "Construir"
+      },
+      {
+        "word": "Bake",
+        "translation": "Hornear"
+      },
+      {
+        "word": "Breathe",
+        "translation": "Respirar"
+      }
+    ],
+    "place": [
+      {
+        "word": "Beach",
+        "translation": "Playa"
+      },
+      {
+        "word": "Brazil",
+        "translation": "Brasil"
+      },
+      {
+        "word": "Berlin",
+        "translation": "Berlin"
+      },
+      {
+        "word": "Barcelona",
+        "translation": "Barcelona"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Baker",
+        "translation": "Panadero"
+      },
+      {
+        "word": "Biologist",
+        "translation": "Biologo"
+      },
+      {
+        "word": "Banker",
+        "translation": "Banquero"
+      }
+    ]
+  },
+  "c": {
+    "color": [
+      {
+        "word": "Crimson",
+        "translation": "Carmesi"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Cat",
+        "translation": "Gato"
+      }
+    ],
+    "object": [
+      {
+        "word": "Cup",
+        "translation": "Taza"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Cherry",
+        "translation": "Cereza"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Call",
+        "translation": "Llamar"
+      }
+    ],
+    "place": [
+      {
+        "word": "Castle",
+        "translation": "Castillo"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Chef",
+        "translation": "Cocinero"
+      }
+    ]
+  },
+  "d": {
+    "color": [
+      {
+        "word": "Dark",
+        "translation": "Oscuro"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Dog",
+        "translation": "Perro"
+      }
+    ],
+    "object": [
+      {
+        "word": "Door",
+        "translation": "Puerta"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Date",
+        "translation": "Detil"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Dance",
+        "translation": "Bailar"
+      }
+    ],
+    "place": [
+      {
+        "word": "Desert",
+        "translation": "Desierto"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Dentist",
+        "translation": "Dentista"
+      }
+    ]
+  },
+  "e": {
+    "color": [
+      {
+        "word": "Emerald",
+        "translation": "Esmeralda"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Elephant",
+        "translation": "Elefante"
+      }
+    ],
+    "object": [
+      {
+        "word": "Envelope",
+        "translation": "Sobre"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Elderberry",
+        "translation": "Sauco"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Eat",
+        "translation": "Comer"
+      }
+    ],
+    "place": [
+      {
+        "word": "Embassy",
+        "translation": "Embajada"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Engineer",
+        "translation": "Ingeniero"
+      }
+    ]
+  },
+  "f": {
+    "color": [
+      {
+        "word": "Fuchsia",
+        "translation": "Fucsia"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Fox",
+        "translation": "Zorro"
+      }
+    ],
+    "object": [
+      {
+        "word": "Fork",
+        "translation": "Tenedor"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Fig",
+        "translation": "Higo"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Fight",
+        "translation": "Pelear"
+      }
+    ],
+    "place": [
+      {
+        "word": "Forest",
+        "translation": "Bosque"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Firefighter",
+        "translation": "Bombero"
+      }
+    ]
+  },
+  "g": {
+    "color": [
+      {
+        "word": "Green",
+        "translation": "Verde"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Giraffe",
+        "translation": "Jirafa"
+      }
+    ],
+    "object": [
+      {
+        "word": "Glass",
+        "translation": "Vaso"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Grape",
+        "translation": "Uva"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Grow",
+        "translation": "Crecer"
+      }
+    ],
+    "place": [
+      {
+        "word": "Garden",
+        "translation": "Jardin"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Gardener",
+        "translation": "Jardinero"
+      }
+    ]
+  },
+  "h": {
+    "color": [
+      {
+        "word": "Hazel",
+        "translation": "Avellana"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Horse",
+        "translation": "Caballo"
+      }
+    ],
+    "object": [
+      {
+        "word": "Hat",
+        "translation": "Sombrero"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Honeydew",
+        "translation": "Melon verde"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Hug",
+        "translation": "Abrazar"
+      }
+    ],
+    "place": [
+      {
+        "word": "Hospital",
+        "translation": "Hospital"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Hairdresser",
+        "translation": "Peluquero"
+      }
+    ]
+  },
+  "i": {
+    "color": [
+      {
+        "word": "Indigo",
+        "translation": "indigo"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Iguana",
+        "translation": "Iguana"
+      }
+    ],
+    "object": [
+      {
+        "word": "Iron",
+        "translation": "Plancha"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Ice apple",
+        "translation": "Manzana de hielo"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Identify",
+        "translation": "Identificar"
+      }
+    ],
+    "place": [
+      {
+        "word": "Island",
+        "translation": "Isla"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Illustrator",
+        "translation": "Ilustrador"
+      }
+    ]
+  },
+  "j": {
+    "color": [
+      {
+        "word": "Jade",
+        "translation": "Jade"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Jaguar",
+        "translation": "Jaguar"
+      }
+    ],
+    "object": [
+      {
+        "word": "Jar",
+        "translation": "Tarro"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Jackfruit",
+        "translation": "Jaca"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Jump",
+        "translation": "Saltar"
+      }
+    ],
+    "place": [
+      {
+        "word": "Jungle",
+        "translation": "Selva"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Judge",
+        "translation": "Juez"
+      }
+    ]
+  },
+  "k": {
+    "color": [
+      {
+        "word": "Khaki",
+        "translation": "Caqui"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Kangaroo",
+        "translation": "Canguro"
+      }
+    ],
+    "object": [
+      {
+        "word": "Key",
+        "translation": "Llave"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Kiwi",
+        "translation": "Kiwi"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Kick",
+        "translation": "Patear"
+      }
+    ],
+    "place": [
+      {
+        "word": "Kitchen",
+        "translation": "Cocina"
+      }
+    ],
+    "profession": [
+      {
+        "word": "King",
+        "translation": "Rey"
+      }
+    ]
+  },
+  "l": {
+    "color": [
+      {
+        "word": "Lavender",
+        "translation": "Lavanda"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Lion",
+        "translation": "Leon"
+      }
+    ],
+    "object": [
+      {
+        "word": "Lamp",
+        "translation": "Lampara"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Lemon",
+        "translation": "Limon"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Learn",
+        "translation": "Aprender"
+      }
+    ],
+    "place": [
+      {
+        "word": "Library",
+        "translation": "Biblioteca"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Lawyer",
+        "translation": "Abogado"
+      }
+    ]
+  },
+  "m": {
+    "color": [
+      {
+        "word": "Magenta",
+        "translation": "Magenta"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Monkey",
+        "translation": "Mono"
+      }
+    ],
+    "object": [
+      {
+        "word": "Mirror",
+        "translation": "Espejo"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Mango",
+        "translation": "Mango"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Move",
+        "translation": "Mover"
+      }
+    ],
+    "place": [
+      {
+        "word": "Museum",
+        "translation": "Museo"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Manager",
+        "translation": "Gerente"
+      }
+    ]
+  },
+  "n": {
+    "color": [
+      {
+        "word": "Navy",
+        "translation": "Azul marino"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Newt",
+        "translation": "Triton"
+      }
+    ],
+    "object": [
+      {
+        "word": "Needle",
+        "translation": "Aguja"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Nectarine",
+        "translation": "Nectarina"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Navigate",
+        "translation": "Navegar"
+      }
+    ],
+    "place": [
+      {
+        "word": "Nursery",
+        "translation": "Guarderia"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Nurse",
+        "translation": "Enfermero"
+      }
+    ]
+  },
+  "o": {
+    "color": [
+      {
+        "word": "Orange",
+        "translation": "Naranja"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Owl",
+        "translation": "Buho"
+      }
+    ],
+    "object": [
+      {
+        "word": "Oven",
+        "translation": "Horno"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Orange",
+        "translation": "Naranja"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Obey",
+        "translation": "Obedecer"
+      }
+    ],
+    "place": [
+      {
+        "word": "Office",
+        "translation": "Oficina"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Optician",
+        "translation": "optico"
+      }
+    ]
+  },
+  "p": {
+    "color": [
+      {
+        "word": "Purple",
+        "translation": "Purpura"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Penguin",
+        "translation": "Pinguino"
+      }
+    ],
+    "object": [
+      {
+        "word": "Pen",
+        "translation": "Boligrafo"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Pear",
+        "translation": "Pera"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Paint",
+        "translation": "Pintar"
+      }
+    ],
+    "place": [
+      {
+        "word": "Park",
+        "translation": "Parque"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Pilot",
+        "translation": "Piloto"
+      }
+    ]
+  },
+  "q": {
+    "color": [
+      {
+        "word": "Quartz",
+        "translation": "Cuarzo"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Quail",
+        "translation": "Codorniz"
+      }
+    ],
+    "object": [
+      {
+        "word": "Quilt",
+        "translation": "Edredon"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Quince",
+        "translation": "Membrillo"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Question",
+        "translation": "Preguntar"
+      }
+    ],
+    "place": [
+      {
+        "word": "Quarry",
+        "translation": "Cantera"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Queen",
+        "translation": "Reina"
+      }
+    ]
+  },
+  "r": {
+    "color": [
+      {
+        "word": "Red",
+        "translation": "Rojo"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Rabbit",
+        "translation": "Conejo"
+      }
+    ],
+    "object": [
+      {
+        "word": "Radio",
+        "translation": "Radio"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Raspberry",
+        "translation": "Frambuesa"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Run",
+        "translation": "Correr"
+      }
+    ],
+    "place": [
+      {
+        "word": "Restaurant",
+        "translation": "Restaurante"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Reporter",
+        "translation": "Reportero"
+      }
+    ]
+  },
+  "s": {
+    "color": [
+      {
+        "word": "Silver",
+        "translation": "Plateado"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Snake",
+        "translation": "Serpiente"
+      }
+    ],
+    "object": [
+      {
+        "word": "Scissors",
+        "translation": "Tijeras"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Strawberry",
+        "translation": "Fresa"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Sing",
+        "translation": "Cantar"
+      }
+    ],
+    "place": [
+      {
+        "word": "School",
+        "translation": "Escuela"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Scientist",
+        "translation": "Cientifico"
+      }
+    ]
+  },
+  "t": {
+    "color": [
+      {
+        "word": "Turquoise",
+        "translation": "Turquesa"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Tiger",
+        "translation": "Tigre"
+      }
+    ],
+    "object": [
+      {
+        "word": "Table",
+        "translation": "Mesa"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Tangerine",
+        "translation": "Mandarina"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Talk",
+        "translation": "Hablar"
+      }
+    ],
+    "place": [
+      {
+        "word": "Theater",
+        "translation": "Teatro"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Teacher",
+        "translation": "Maestro"
+      }
+    ]
+  },
+  "u": {
+    "color": [
+      {
+        "word": "Ultramarine",
+        "translation": "Ultramar"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Unicorn",
+        "translation": "Unicornio"
+      }
+    ],
+    "object": [
+      {
+        "word": "Umbrella",
+        "translation": "Paraguas"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Ugli fruit",
+        "translation": "Tangelo"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Understand",
+        "translation": "Entender"
+      }
+    ],
+    "place": [
+      {
+        "word": "University",
+        "translation": "Universidad"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Undertaker",
+        "translation": "Enterrador"
+      }
+    ]
+  },
+  "v": {
+    "color": [
+      {
+        "word": "Violet",
+        "translation": "Violeta"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Vulture",
+        "translation": "Buitre"
+      }
+    ],
+    "object": [
+      {
+        "word": "Vase",
+        "translation": "Jarron"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Vanilla bean",
+        "translation": "Vainilla"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Vote",
+        "translation": "Votar"
+      }
+    ],
+    "place": [
+      {
+        "word": "Village",
+        "translation": "Pueblo"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Veterinarian",
+        "translation": "Veterinario"
+      }
+    ]
+  },
+  "w": {
+    "color": [
+      {
+        "word": "White",
+        "translation": "Blanco"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Whale",
+        "translation": "Ballena"
+      }
+    ],
+    "object": [
+      {
+        "word": "Watch",
+        "translation": "Reloj"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Watermelon",
+        "translation": "Sandia"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Walk",
+        "translation": "Caminar"
+      }
+    ],
+    "place": [
+      {
+        "word": "Warehouse",
+        "translation": "Almacen"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Waiter",
+        "translation": "Camarero"
+      }
+    ]
+  },
+  "x": {
+    "color": [
+      {
+        "word": "Xanadu",
+        "translation": "Xanadu"
+      }
+    ],
+    "animal": [
+      {
+        "word": "X-ray fish",
+        "translation": "Pez de rayos X"
+      }
+    ],
+    "object": [
+      {
+        "word": "Xylophone",
+        "translation": "Xilofono"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Ximenia",
+        "translation": "Ximenia"
+      }
+    ],
+    "verb": [
+      {
+        "word": "X-ray",
+        "translation": "Radiografiar"
+      }
+    ],
+    "place": [
+      {
+        "word": "X-roads",
+        "translation": "Cruce"
+      }
+    ],
+    "profession": [
+      {
+        "word": "X-ray technician",
+        "translation": "Tecnico de rayos X"
+      }
+    ]
+  },
+  "y": {
+    "color": [
+      {
+        "word": "Yellow",
+        "translation": "Amarillo"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Yak",
+        "translation": "Yak"
+      }
+    ],
+    "object": [
+      {
+        "word": "Yarn",
+        "translation": "Hilo"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Yuzu",
+        "translation": "Yuzu"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Yell",
+        "translation": "Gritar"
+      }
+    ],
+    "place": [
+      {
+        "word": "Yard",
+        "translation": "Patio"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Yoga instructor",
+        "translation": "Instructor de yoga"
+      }
+    ]
+  },
+  "z": {
+    "color": [
+      {
+        "word": "Zaffre",
+        "translation": "Azul cobalto"
+      }
+    ],
+    "animal": [
+      {
+        "word": "Zebra",
+        "translation": "Cebra"
+      }
+    ],
+    "object": [
+      {
+        "word": "Zipper",
+        "translation": "Cremallera"
+      }
+    ],
+    "fruit": [
+      {
+        "word": "Zucchini",
+        "translation": "Calabacin"
+      }
+    ],
+    "verb": [
+      {
+        "word": "Zoom",
+        "translation": "Acercar"
+      }
+    ],
+    "place": [
+      {
+        "word": "Zoo",
+        "translation": "Zoologico"
+      }
+    ],
+    "profession": [
+      {
+        "word": "Zoologist",
+        "translation": "Z"
+      }
+    ]
+  }
+}
